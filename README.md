@@ -1,5 +1,11 @@
 # Toy Robot
 
+#### Usage
+
+```
+ruby toy_robot.rb <TXT_PATH>
+```
+
 #### What is this ?
 
 Toy Robot is a ruby coding exercise that we get our potential candidates  complete for us (Mable) to understand their capabilities.  
